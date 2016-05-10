@@ -18,8 +18,9 @@ font-family: 'Open Sans', sans-serif;
   width: 50px;
 }
 
-#info {
-  background-color: #e0f2f1;
-  padding: 10px 10px 10px 10px;
 
+.my-new-list {
+  background-color: #607d8b;
+  padding: 15px 15px 15px 15px;
+  margin: 20px 20px 20px 20px;
 }
