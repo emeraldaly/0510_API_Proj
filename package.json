@@ -1,0 +1,25 @@
+{
+  "name": "alyson_api",
+  "version": "1.0.0",
+  "description": "A site that interacts with an API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emeraldaly/0510_API_Proj.git"
+  },
+  "author": "Alyson Wright",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emeraldaly/0510_API_Proj/issues"
+  },
+  "homepage": "https://github.com/emeraldaly/0510_API_Proj#readme",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "morgan": "^1.7.0"
+  }
+}

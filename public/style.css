@@ -1,3 +1,25 @@
 body {
-  background-color: blue;
+  background: url('cinema.jpg') no-repeat 100% 50% fixed;
+  background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  -webkit-background-size: cover;
+  background-color: #e3f2fd;
+
+}
+
+h1, h2, h3 {
+
+font-family: 'Open Sans', sans-serif;
+
+}
+
+#icon {
+  width: 50px;
+}
+
+#info {
+  background-color: #e0f2f1;
+  padding: 10px 10px 10px 10px;
+
 }
